@@ -14,5 +14,5 @@ Connect -> unlock -> select FW -> Write
 
 # <span style="color:red">!!! UNPLUG NRST IN THE ACTIVATION PHASE OF THE FLASHING !!!</span>
 
-First try to use the [TLSR_HS_BWY_32.bin](https://github.com/dontrajik/Nebular/blob/main/TLSR_HS_BWY_32.bin) file. If the tag won't refresh you should try to use the [SSD version](https://github.com/dontrajik/Nebular/blob/main/IF_ALPHA_OR_INVERSE_NOT_GOOD_TLSR_HS_BWY_35_SSD.bin).
+First try to use the [TLSR_HS_BWY_35.bin](https://github.com/dontrajik/Nebular/blob/main/TLSR_HS_BWY_35.bin) file. If the tag won't refresh you should try to use the [SSD version](https://github.com/dontrajik/Nebular/blob/main/IF_ALPHA_OR_INVERSE_NOT_GOOD_TLSR_HS_BWY_35_SSD.bin).
 
